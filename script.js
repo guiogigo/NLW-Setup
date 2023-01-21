@@ -14,7 +14,6 @@ function add() {
     return
   }
 
-  alert("Adicionado")
   nlwSetup.addDay(today)
 }
 
